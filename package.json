@@ -1,0 +1,15 @@
+{
+  "name": "shadow-deps",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "author": {
+    "name": "David O'Meara",
+    "email": "nilpunning@gmail.com"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "shadow-cljs": "^2.7.9"
+  }
+}
